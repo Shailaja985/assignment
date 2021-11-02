@@ -1,0 +1,15 @@
+com\uxpsystems\assignment\exception\UserNotFoundException.class
+com\uxpsystems\assignment\controller\UserController.class
+com\uxpsystems\assignment\exception\DuplicateUserException.class
+com\uxpsystems\assignment\service\UserService.class
+com\uxpsystems\assignment\dao\UserNotFoundException.class
+com\uxpsystems\assignment\dao\UserRepository.class
+com\uxpsystems\assignment\exception\UserErrorResponse.class
+com\uxpsystems\assignment\service\UserServiceImpl.class
+com\uxpsystems\assignment\advice\UserRestExceptionHandler.class
+com\uxpsystems\assignment\exception\NoUserRecordException.class
+com\uxpsystems\assignment\UserApplication.class
+com\uxpsystems\assignment\domain\User.class
+com\uxpsystems\assignment\exception\EmptyInputException.class
+com\uxpsystems\assignment\config\SwaggerConfig.class
+com\uxpsystems\assignment\dao\UserErrorResponse.class
